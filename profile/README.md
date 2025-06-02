@@ -9,3 +9,5 @@ Oferecemos instalação, manutenção e suporte técnico para sistemas modernos 
 - Site: [wires.com.br](https://wires.com.br)  
 - Email: contato@wires.com.br  
 - Telefone: +55 11 99227-0196
+- 
+![Logo Wires](https://github.com/Wires-Solucao-e-Servicos/logos/raw/main/WiresIcon-White.png)
